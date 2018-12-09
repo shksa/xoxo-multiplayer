@@ -1,5 +1,9 @@
 self.__precacheManifest = [
   {
+    "revision": "038c96e858ac79eefddf2b4e770986eb",
+    "url": "/xoxo-multiplayer/static/media/defaultAvatar.038c96e8.jpeg"
+  },
+  {
     "revision": "a536838eb4efdf701fd3a5419b72ce61",
     "url": "/xoxo-multiplayer/static/media/ThreeBallsLoader.a536838e.svg"
   },
@@ -12,15 +16,15 @@ self.__precacheManifest = [
     "url": "/xoxo-multiplayer/static/js/runtime~main.fcd0c8aa.js"
   },
   {
-    "revision": "b775af1a59565c598563",
-    "url": "/xoxo-multiplayer/static/js/main.b775af1a.chunk.js"
+    "revision": "64af3115ab87ba125a36",
+    "url": "/xoxo-multiplayer/static/js/main.64af3115.chunk.js"
   },
   {
-    "revision": "c784250ab7a8db0d14b4",
-    "url": "/xoxo-multiplayer/static/js/1.c784250a.chunk.js"
+    "revision": "c6a317f2e1fbdd0a30e0",
+    "url": "/xoxo-multiplayer/static/js/1.c6a317f2.chunk.js"
   },
   {
-    "revision": "87ab880d281423dbbdc7b796db877bd5",
+    "revision": "baa529362a8b73d7ca613f5c66dd4e69",
     "url": "/xoxo-multiplayer/index.html"
   }
 ];

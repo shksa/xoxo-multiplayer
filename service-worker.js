@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/xoxo-multiplayer/precache-manifest.383f7e3ee2989c6613c9768a61af49f4.js"
+  "/xoxo-multiplayer/precache-manifest.8e9f40fe2b67022fe1b1d90fdf70ba26.js"
 );
 
 workbox.clientsClaim();
